@@ -1,0 +1,6 @@
+c:\my documents\visual studio 2013\Projects\ErrorLogParser\ErrorLogParser\bin\Debug\ErrorLogParser.exe.config
+c:\my documents\visual studio 2013\Projects\ErrorLogParser\ErrorLogParser\bin\Debug\ErrorLogParser.exe
+c:\my documents\visual studio 2013\Projects\ErrorLogParser\ErrorLogParser\bin\Debug\ErrorLogParser.pdb
+c:\my documents\visual studio 2013\Projects\ErrorLogParser\ErrorLogParser\obj\Debug\ErrorLogParser.csprojResolveAssemblyReference.cache
+c:\my documents\visual studio 2013\Projects\ErrorLogParser\ErrorLogParser\obj\Debug\ErrorLogParser.exe
+c:\my documents\visual studio 2013\Projects\ErrorLogParser\ErrorLogParser\obj\Debug\ErrorLogParser.pdb
